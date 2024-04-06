@@ -1,5 +1,5 @@
 # Hi, I'm Achmad Dwi Prasetyo 👋
-A senior software engineer with more than 5 years of professional experience. I have excellent knowledge of backend Java development.
+A senior software engineer and network engineer with more than 5 years of professional experience. I have excellent knowledge of backend Java development.
 In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.
 
 <p align='center'>
@@ -18,7 +18,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:duikskecebong@gmail.com'>duikskecebong@gmail.com</a>
 </p>
 
 
