@@ -18,12 +18,12 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://linkedin.com/in/achmad-dwi-prasetyo">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.vercel.app/linkedin/495f7e" />
 </a>
 <a href="https://www.instagram.com/duiks11/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+<a href="https://twitter.com/yours">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
