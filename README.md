@@ -3,10 +3,10 @@ A senior software engineer and network engineer with more than 5 years of profes
 In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=KucingTerbang11&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=achmaddwiprasetyo&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=KucingTerbang11&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/KucingTerbang11/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KucingTerbang11&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=achmaddwiprasetyo&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/achmaddwiprasetyo/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmaddwiprasetyo&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -23,7 +23,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 ### Key points
 *   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   Creator and author of [KucingTerbang11](https://t.me/) Telegram channel. Subscribe to receive messages about my open-source activities.
+*   Creator and author of [Achmad Dwi Prasetyo](https://t.me/) Telegram channel. Subscribe to receive messages about my open-source activities.
 *   I write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
@@ -42,7 +42,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/KucingTerbang11/github-profile-views-counter">
-       <img src="https://komarev.com/ghpvc/?username=KucingTerbang11&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+   <a href="https://github.com/achmaddwiprasetyo/github-profile-views-counter">
+       <img src="https://komarev.com/ghpvc/?username=achmaddwiprasetyo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
    </a>
 </div>
