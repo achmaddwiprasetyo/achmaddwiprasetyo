@@ -44,6 +44,6 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/KucingTerbang11/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=KucingTerbang11&color=DE002D">
+       <img src="https://komarev.com/ghpvc/?username=KucingTerbang11&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
    </a>
 </div>
