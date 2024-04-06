@@ -14,7 +14,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
    <a href="https://www.linkedin.com/in/achmad-dwi-prasetyo/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://t.me/joinchat/">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
@@ -24,7 +24,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 ### Key points
 *   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
+*   Creator and author of [KucingTerbang11](https://t.me/) Telegram channel. Subscribe to receive messages about my open-source activities.
 *   I write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
