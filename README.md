@@ -31,8 +31,8 @@ In general, I've worked with monolithic, microservice and serverless architectur
 ## 🛠 Technology Stack
 *   PHP/Flutter/Python languages
 *   MySQL, PostgreSQL, MongoDB
-*   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeler
+*   Django, FastAPI, SQLAlchemy,Psycopg2 / PyMySQL, PyTest / unittest, Pact Python / Schemathesis
+*   Apache Airflow / Prefect, BPMN Python Engine
 *   GitHub/GitLab
 
 ### My opensource projects
